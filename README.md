@@ -1,6 +1,8 @@
 # QATestProject
 SDET Test Project
 
+
+
 This is a simple test project designed for you to demonstrate your technical skills in C# .NET MVC as an SDET tester. The setup for this test is pretty simple. 
 SPIE has a section of our website that displays the profiles of various SPIE and SPIE-affiliated people. This code is the initial development of that profiles section. Unfortunately, it has some bugs and missing functionality.
 
