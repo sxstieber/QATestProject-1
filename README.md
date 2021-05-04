@@ -25,6 +25,7 @@ Add a new project or use the Profiles.Business.Tests project for performing the 
 		-	Home Page: Profile Search Results
 
 
+
 # How to get this project
 Pull down a zip of this by clicking the "Clone or download" link on the upper right of this repo, and select "Download Zip". 
 Unzip into your "My Documents" folder, and open the WebApplication.sln with visual studio. Build the solution, then click the "IIS Express" at the top to run the website.
