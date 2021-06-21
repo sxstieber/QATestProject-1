@@ -17,6 +17,7 @@ Add a new project or use the Profiles.Business.Tests project for performing the 
      for the WebApplication web-site.
 
 Add a new project or use the Profiles.Business.Tests project for performing the End-to-End/UI tests.
+
 3. End-to-End/UI tests for the WebApplication.
    a. For these tests, download Selenium.WebDriver Nuget Package (you may include additional selenium 
       packages as needed or preferred.  As a minimum, testing should support Chrome web-browser).
